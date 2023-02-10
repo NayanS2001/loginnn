@@ -1,0 +1,35 @@
+form{
+  width: 400px;
+  margin: auto;
+  padding: 30px;
+  border: 1px solid lightgray;
+}
+
+input{
+	  border-top-style: hidden;
+      border-right-style: hidden;
+      border-left-style: hidden;
+      padding-top:10px ;
+	  
+}
+textarea{
+	border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+	padding-top: 20px;
+	padding-right: 180px;
+}
+select{
+	border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+	padding-top: 20px;
+	padding-right: 65%;
+}
+#aa{
+	background-color: red;
+	color: white; 
+	font-size: 10px; 
+	border-radius: 12px; 
+	margin: 2px 2px; 
+}
